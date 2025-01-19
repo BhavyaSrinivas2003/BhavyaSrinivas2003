@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BhavyaSrinivas2003
+- 👋 Hi, I’m @BhavyaSrinivas
 - 👀 I’m interested in the area of python, html, css, javascript, front-end
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on coding
